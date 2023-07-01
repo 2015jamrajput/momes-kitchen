@@ -1,3 +1,16 @@
+MOME'S KITCHEN:-B - Plan Event (College tech Fest 2023) Pitched the idea and implementation of our food delivery web-app MOME'S KITCHEN, used by students/bachelors and secured 5th position in the event
+
+A FOOD DELIVERY APPLICATION
+
+∗ Designed the front-end of a web based application that aims to connect home based cooks with local students.
+∗ Static Website designed and created reusable components for website using React Js.
+∗ Used Material UI and react-router-dom 
+
+What Is Mome's Kitchen?
+It Aims To Establish The Link Between College Students Or Working Professionals (Bachelors) And Housewives To Provide Homemade Healthy And Tasty Food.
+
+link:- https://momeskitchen.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
